@@ -96,3 +96,4 @@
 0.0.0.0  wuvidi.com
 0.0.0.0  xegogiv.com
 0.0.0.0  xekezix.com
+0.0.0.0  b-api.facebook.com
